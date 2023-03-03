@@ -14,3 +14,9 @@ function App() {
 }
 
 export default App;
+
+// installed the following for aws amplify
+// sudo apt-get update
+// sudo apt-get -y install xdg-utils
+// then:
+// amplify configure
